@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AssignmentTest</string>
+    <string name="lengthButtonText">Length</string>
+    <string name="massButtonText">Mass</string>
+    <string name="areaButtonText">Area</string>
+    <string name="volumeButtonText">Volume</string>
+    <string name="temperatureButtonText">Temperature</string>
+    <string name="frequenzyButtonText">Frequenzy</string>
+    <string name="quickSelect">Quick Select</string>
+    <string name="categoriesText">Categories</string>
+    <string name="usText">US</string>
+    <string name="ukText">UK</string>
+</resources>
